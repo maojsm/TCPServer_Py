@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="956260ae-cb84-4893-bae0-81c218a262f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TCPServer_Py.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TCPServer_Py.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -42,18 +42,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -84,6 +72,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -97,6 +97,8 @@
       <workItem from="1592754612027" duration="995000" />
       <workItem from="1592770786556" duration="6332000" />
       <workItem from="1592852739534" duration="16673000" />
+      <workItem from="1593352357605" duration="2038000" />
+      <workItem from="1593509750314" duration="2772000" />
     </task>
     <servers />
   </component>
@@ -121,29 +123,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1592754976752" />
-    <state width="1323" height="228" key="GridCell.Tab.0.bottom" timestamp="1592755700977">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2561" height="408" key="GridCell.Tab.0.bottom" timestamp="1593512380238">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1323" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592755700977" />
-    <state width="1323" height="228" key="GridCell.Tab.0.center" timestamp="1592755700976">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2561" height="408" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1593512380238" />
+    <state width="2561" height="408" key="GridCell.Tab.0.center" timestamp="1593512380237">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1323" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592755700976" />
-    <state width="1323" height="228" key="GridCell.Tab.0.left" timestamp="1592755700976">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2561" height="408" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1593512380237" />
+    <state width="2561" height="408" key="GridCell.Tab.0.left" timestamp="1593512380237">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1323" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592755700976" />
-    <state width="1323" height="228" key="GridCell.Tab.0.right" timestamp="1592755700977">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2561" height="408" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1593512380237" />
+    <state width="2561" height="408" key="GridCell.Tab.0.right" timestamp="1593512380237">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1323" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592755700977" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1592754756089">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2561" height="408" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1593512380237" />
+    <state x="345" y="12" key="SettingsEditor" timestamp="1593352414522">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592754756089" />
+    <state x="345" y="12" key="SettingsEditor/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1593352414522" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TCP_ServerPy$main.coverage" NAME="main Coverage Results" MODIFIED="1593343723585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TCPServer_Py$main.coverage" NAME="main Coverage Results" MODIFIED="1592755700965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TCP_ServerPy$main.coverage" NAME="main Coverage Results" MODIFIED="1593512380233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
